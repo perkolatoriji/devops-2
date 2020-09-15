@@ -1,4 +1,4 @@
-# vagrant
+# devops-2
 DevOps#2 project - Carlos Ijalba 2020.
 
 Terraform setup for AWS to create 4 machines in a VPC:
